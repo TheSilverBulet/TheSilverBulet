@@ -2,7 +2,7 @@
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,py,angular,azure,bash,cloudflare,docker,eclipse,git,github,gmail,go,jenkins,jquery,js,linux,maven,mysql,nodejs,npm,raspberrypi,redis,redhat,spring,selenium,sqlite,ts,ubuntu,vscode,vscodium&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,py,angular,azure,bash,cloudflare,docker,eclipse,git,github,gmail,go,jenkins,jquery,js,linux,maven,mysql,nodejs,npm,raspberrypi,redis,redhat,spring,selenium,sqlite,ts,ubuntu,vscode&perline=8)](https://skillicons.dev)
 
 <!--
 **TheSilverBulet/TheSilverBulet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
